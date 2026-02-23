@@ -213,10 +213,10 @@ export default function Gallery() {
               {studentInfo.name}
             </Typography>
             <Typography variant="body2" sx={styles.studentInfo}>
-              Section: {studentInfo.section}
+              {studentInfo.subject}
             </Typography>
             <Typography variant="body2" sx={styles.studentInfo}>
-              Subject Code: {studentInfo.subjectCode}
+            {studentInfo.section}
             </Typography>
           </CardContent>
         </Card>

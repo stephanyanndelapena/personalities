@@ -1,7 +1,7 @@
 export const studentInfo = {
   name: "Stephany Ann Dela Pena",
-  section: "IT-3A",
-  subjectCode: "C-PEITEL3"
+  subject: "C-PEITEL3",
+  section: "IT-3A"
 };
 
 export const personalitiesList = [
